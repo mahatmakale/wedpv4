@@ -8,7 +8,7 @@ window.addEventListener("load", () => {
             loader.classList.add("hide");
             setTimeout(() => loader.remove(), 100);
         }
-    }, 800);
+    }, 300);
 });
 
 document.addEventListener('DOMContentLoaded', () => {
