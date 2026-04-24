@@ -235,7 +235,7 @@ section {
 }
 
 .texture-bg {
-    background-image: url('images/texture.svg');
+    background-image: url('texture.svg');
     background-repeat: repeat;
     background-size: 200px 200px;
     opacity: 1; /* Already has opacity in SVG */
@@ -576,7 +576,7 @@ h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover {
    ========================================================================== */
 .couple-section {
     background-color: var(--color-bg);
-    background-image: url("images/bg1.jpg");
+    background-image: url("bg1.jpg");
     background-size: cover;
     background-position: center; /* Properly fitted as requested */
     background-repeat: no-repeat;
@@ -704,7 +704,7 @@ h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover {
    ========================================================================== */
 .story {
     background-color: var(--color-bg-alt);
-    background-image: url("images/bg2.jpg");
+    background-image: url("bg2.jpg");
     background-size: cover;
     background-position: center; /* Properly fitted as requested */
     background-repeat: no-repeat;
@@ -839,7 +839,7 @@ h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover {
 }
 
 .gallery-bg {
-    background-image: url("images/couple-3.jpg");
+    background-image: url("couple-3.jpg");
     opacity: 0.25; /* Low opacity so gallery remains dominant */
 }
 
@@ -967,7 +967,7 @@ h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover {
 .events {
     position: relative;
     background-color: #F8F5F0;
-    background-image: url("images/bg4.jpg");
+    background-image: url("bg4.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -1038,7 +1038,7 @@ h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover {
    ========================================================================== */
 .video-section {
     background-color: var(--color-bg-teal);
-    background-image: url("images/bg5.jpg");
+    background-image: url("bg5.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -1098,7 +1098,7 @@ h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover {
    ========================================================================== */
 .location-section {
     background-color: var(--color-bg);
-    background-image: url("images/bg6.jpg");
+    background-image: url("bg6.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
